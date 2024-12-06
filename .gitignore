@@ -1,0 +1,7 @@
+.vscode
+vendor
+
+bakery.sql
+
+config/*
+!config/*.example.php

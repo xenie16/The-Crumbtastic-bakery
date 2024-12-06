@@ -1,0 +1,25 @@
+* {
+   box-sizing: border-box;
+}
+
+body {
+   font-family: Arial, sans-serif;
+   font-size: 1em;
+   margin: 0;
+   padding: 0;
+}
+
+ul {
+   list-style: none;
+}
+
+a {
+   text-decoration: none;
+}
+
+button {
+   background: none;
+   border: none;
+   padding: 0;
+   cursor: pointer;
+}

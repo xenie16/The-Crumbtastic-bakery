@@ -1,0 +1,50 @@
+.product-page {
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-between;
+   margin: 50px auto;
+}
+
+.product-page img {
+   max-width: 40%;
+   margin-right: 50px;
+   margin-top: 50px;
+}
+
+.product-details p {
+   font-size: 1.2em;
+}
+
+.price {
+   font-weight: bold;
+}
+
+label {
+   font-size: 1.2em;
+   margin-right: 10px;
+}
+
+input[type="number"] {
+   width: 50px;
+   padding: 5px;
+   font-size: 1em;
+   margin-right: 20px;
+}
+
+input[type="submit"] {
+   background-color: #426B1F;
+   color: #fff;
+   padding: 10px 20px;
+   border: none;
+   cursor: pointer;
+   font-size: 1em;
+   border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+   background-color: #2F4E15;
+}
+
+.productAdded {
+   color: green;
+}
